@@ -2,10 +2,13 @@
 
 ## How to run?
 
-1- clone the repo to your local machine
-2- open terminal and run 'npm i'
-3- create .env file with your OWM API
-4- run 'npm run start' or 'yarn start'
+#### 1- clone the repo to your local machine
+
+#### 2- open terminal and run 'npm i'
+
+#### 3- create .env file with your OWM API
+
+#### 4- run 'npm run start' or 'yarn start'
 
 ## `Technologies&Materials in this project`
 ### ReactJS
