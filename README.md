@@ -10,7 +10,7 @@
 
 #### 4- run 'npm run start' or 'yarn start'
 
-## `Technologies&Materials in this project`
+## Technologies&Materials in this project
 ### ReactJS
 ### [React Bootstrap](https://react-bootstrap.github.io/)
 ### [OWM API](https://openweathermap.org/)
