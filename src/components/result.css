@@ -1,0 +1,32 @@
+.result{
+    background: url('../images/white-cloud-blue-sky.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    position: absolute;
+    width: 100%;
+    padding-top: 30vh;
+}
+.resultBox{
+    margin: auto;
+    text-align: center;
+    width: 60%;
+    box-shadow: inset 0 0 0 1000px rgba(255, 255, 255, 0.295);
+    padding: 5%;
+}
+@media only screen and (max-width:900px) {
+    .resultBox{
+      width: 90%;
+    }   
+  }
+  .secondInfo,.temp{
+      display: inline-block;
+  }
+  .secondInfo h5{
+      margin: 1em;
+      display: inline-block;
+  }
+  h3{
+      margin: 1em;
+  }

@@ -1,0 +1,35 @@
+.home{
+    background: url('../images/1411.jpg');
+    height: 100vh;
+    position: absolute;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .form{
+    text-align: center;
+    width: 60%;
+    margin: auto;
+  }
+  @media only screen and (max-width:900px) {
+    .form{
+      width: 90%;
+    }   
+  }
+  form{
+    margin-top: 30vh;
+    box-shadow: inset 0 0 0 1000px rgba(255, 255, 255, 0.295);
+    padding: 15%;
+  }
+  select{
+    font-size: 24pt;
+    outline: 0;
+    border: 0;
+    background: transparent;
+    text-align: center;
+  }
+  .btn-primary{
+    font-size: 20pt;
+    padding: 15px 60px;
+  }
